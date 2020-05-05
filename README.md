@@ -41,10 +41,9 @@ Change the server name and alias. and configure path of certfile location.<br>
   10. If you didn't see any error's that's it. 
   <br>
     <br>
-      <br>
-        <br>
+
         
-  <h3> Fixing Can't connect error's </h3><br>
+  <h3> Let's Fix Can't connect error's </h3><br>
   <br>
   * Type Your Instance IP and it would shows Apache default webpage.  <br>
   <br>
