@@ -27,11 +27,13 @@
 Change the server name and alias. and configure path of certfile location.<br>
 <br>
 8.Change Bitnami Vhost into the file. <br>
+<br>
  <code> sudo nano /opt/bitnami/apache2/conf/bitnami/bitnami-apps-vhosts.conf </code> <br>
  <br>
  adding this line on bottom <br>
  <br>
  <code> Include "/opt/bitnami/apps/wordpress/conf/httpd-vhosts.conf" </code> <br>
+ <br>
  9. Restart apache server.<br>
  <br>
  <code> sudo /opt/bitnami/ctlscript.sh restart apache </code><br>
