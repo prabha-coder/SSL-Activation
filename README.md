@@ -1,4 +1,4 @@
-# SSL-Activation for Bitnami Certbot method
+# Let's encrypt SSL-Activation for Bitnami Certbot method
 
 1.Certbot is not available in the default ubuntu repository. Run the below command to add ppa repository.<br>
 <br>
